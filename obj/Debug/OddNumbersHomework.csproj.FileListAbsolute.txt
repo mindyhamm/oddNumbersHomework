@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersHomework\OddNumbersHomework\bin\Debug\OddNumbersHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersHomework\OddNumbersHomework\obj\Debug\OddNumbersHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersHomework\OddNumbersHomework\bin\Debug\OddNumbersHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersHomework\OddNumbersHomework\bin\Debug\OddNumbersHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersHomework\OddNumbersHomework\obj\Debug\OddNumbersHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersHomework\OddNumbersHomework\obj\Debug\OddNumbersHomework.pdb
